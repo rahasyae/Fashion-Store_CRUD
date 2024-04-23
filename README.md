@@ -36,7 +36,7 @@ This is a Python-based Fashion Store Management System that allows both admins a
 - Follow the on-screen prompts to navigate through the system.
 
 ## Screenshots
-
+![Flowchart](https://github.com/rahasyae/first/blob/main/Global%20Flowchart.jpg)
 Include some screenshots or gifs showcasing the functionalities of your Fashion Store Management System.
 
 ## Contributing
