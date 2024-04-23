@@ -1,6 +1,6 @@
-# Fashion Store Management System
+# Fashion Store
 
-This is a Python-based Fashion Store Management System that allows both admins and customers to interact with the store. It provides functionalities such as displaying items, adding items to the cart, managing inventory, and processing payments.
+This is a Python-based Fashion Store   that allows both admins and customers to interact with the store. It provides functionalities such as displaying items, adding items to the cart, managing inventory, and processing payments.
 
 ## Features
 
@@ -31,13 +31,13 @@ This is a Python-based Fashion Store Management System that allows both admins a
 
 ## Usage
 
-- Run the `main.py` file to start the Fashion Store Management System.
+- Run the `main.py` file to start the Fashion Store.
 - Choose between the Admin or Customer role based on your requirements.
 - Follow the on-screen prompts to navigate through the system.
 
 ## Screenshots
 ![Flowchart](https://github.com/rahasyae/first/blob/main/Global%20Flowchart.jpg)
-Include some screenshots or gifs showcasing the functionalities of your Fashion Store Management System.
+Include some screenshots or gifs showcasing the functionalities of your Fashion Store.
 
 ## Contributing
 
