@@ -38,6 +38,9 @@ This is a Python-based Fashion Store   that allows both admins and customers to 
 ## Screenshots
 ![Flowchart](https://github.com/rahasyae/first/blob/main/Global%20Flowchart.jpg)
 ![Flowchart](https://github.com/rahasyae/first/blob/main/Admin%20Menu.png)
+![Flowchart](https://github.com/rahasyae/first/blob/main/Customer%20Menu.png)
+![Flowchart](https://github.com/rahasyae/first/blob/main/User%20Option%20Menu.png)
+
 Include some screenshots or flowchart showcasing the functionalities of your Fashion Store.
 
 ## Contributing
