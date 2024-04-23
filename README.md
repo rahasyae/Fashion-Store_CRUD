@@ -46,7 +46,3 @@ Include some screenshots or flowchart showcasing the functionalities of your Fas
 ## Contributing
 
 Contributions are welcome! Feel free to open issues or pull requests for any improvements or bug fixes.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
